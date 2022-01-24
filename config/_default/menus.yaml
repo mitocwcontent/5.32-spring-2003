@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 28489341-8f68-aaa6-b55b-3c44ee61f931
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 9dc38ac9-e6de-c37f-9885-cfa3366e3429
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: b6c351da-484d-4fda-8914-148c42511763
+  name: Labs
+  url: /pages/labs
+  weight: 30
+- identifier: 05486687-6fc6-3b0e-baf9-8efed8f9a75a
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 40
